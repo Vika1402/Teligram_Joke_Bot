@@ -8,7 +8,7 @@ npm install
 
 3. create a new file `.env` in the root directory of the project and add the following
 ```bash
-Bot_token=your ot_token
+Bot_token=your bot_token
 ```
 
 4. start the bot 
